@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="./banner-github.png" width="100%" alt="Banner tecnológico de Gabriel"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 # Gabriel da Silva Santos
 
