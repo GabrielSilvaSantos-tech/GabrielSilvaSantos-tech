@@ -33,16 +33,19 @@ Gosto de aprender na prática, explorar novas ferramentas e transformar desafios
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
 
-<div align="center">
+<h2 align="left">🛠️ Tecnologias e ferramentas</h2>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
 
 </div>
+
+<p>
+  Também estou desenvolvendo meus conhecimentos em lógica de programação e banco de dados.
+</p>
+
 
 ---
 
