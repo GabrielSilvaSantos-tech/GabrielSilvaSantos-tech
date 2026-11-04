@@ -73,3 +73,13 @@ Em breve, este espaço reunirá meus projetos acadêmicos, exercícios práticos
 **Aprender. Desenvolver. Evoluir.**
 
 </div>
+
+<h2 align="left">📊 Estatísticas do GitHub</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaSantos-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaSantos-tech&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
