@@ -17,13 +17,15 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
-Olá! Sou Gabriel, tenho interesse em tecnologia e desenvolvimento de software.
-
-Estou construindo minha trajetória na área de TI, desenvolvendo conhecimentos em programação, desenvolvimento web e banco de dados.
-
-Gosto de aprender na prática, explorar novas ferramentas e transformar desafios em oportunidades de aprendizado.
+<p align="left">
+  Gabriel da Silva Santos, graduando em Análise e Desenvolvimento de Sistemas, com conhecimentos em lógica de programação, Python, HTML e fundamentos de banco de dados.
+  <br/><br/>
+  Possuo experiência no desenvolvimento de atividades práticas envolvendo programação, estruturação de páginas web e modelagem de dados.
+  <br/><br/>
+  Busco ampliar continuamente meus conhecimentos técnicos, aprimorar minhas habilidades e desenvolver soluções que contribuam para minha evolução profissional na área de tecnologia.
+</p>
 
 - 🎓 Análise e Desenvolvimento de Sistemas — em andamento.
 - 🐍 Conhecimentos em Python.
@@ -72,14 +74,22 @@ Em breve, este espaço reunirá meus projetos acadêmicos, exercícios práticos
 
 **Aprender. Desenvolver. Evoluir.**
 
-</div>
-
 <h2 align="left">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=GabrielSilvaSantos-tech&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=81A1C1" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaSantos-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<h2 align="left">🌐 Conecte-se comigo</h2>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaSantos-tech&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/gabriel-silva-santos-643236384/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=88C0D0" />
+  </a>
+
+  <a href="mailto:gabriel.silvasantos.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2E3440?style=for-the-badge&logo=gmail&logoColor=BF616A" />
+  </a>
 
 </div>
